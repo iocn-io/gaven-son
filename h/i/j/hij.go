@@ -1,5 +1,5 @@
 package hij
 
-func hij() string {
+func Hij() string {
 	return "I am hij"
 }
