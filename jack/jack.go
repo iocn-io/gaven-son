@@ -2,6 +2,6 @@ package jack
 
 import "fmt"
 
-func Jack() {
-	fmt.Println("I am Jack")
+func Jack(name string) {
+	fmt.Println(name)
 }
