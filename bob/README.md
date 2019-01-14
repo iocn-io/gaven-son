@@ -1,1 +1,1 @@
-bob.a lib file
+A test package for gaventest
