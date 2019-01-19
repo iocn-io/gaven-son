@@ -1,5 +1,5 @@
 package gavenson
 
-func gavenson() string {
+func Gavenson() string {
 	return "I am gaven-son"
 }
